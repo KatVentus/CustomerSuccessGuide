@@ -17,7 +17,7 @@ There is a partial, non-critical loss of use of the service with medium-to-low i
 
 Inquiry regarding a routine technical issue; information requested on application capabilities, navigation or configuration; bug affecting a small number of users. Acceptable workaround available.
 
-## Service levels based on package
+## Service levels based on plan
 
 ### Basic Plan
 
