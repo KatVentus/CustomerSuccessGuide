@@ -1,2 +1,2 @@
-# CustomerSuccessGuide
-CS SOP's
+# Customer Success SOP's
+
