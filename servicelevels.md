@@ -20,8 +20,20 @@ Inquiry regarding a routine technical issue; information requested on applicatio
 ## Service levels based on plan
 
 ### Basic Plan
+24x7 access to customer knowledgebase, documenatation, whitepapers and support forums.
 
+Severity 1 (critical) issues will be actioned within 12 business hours.
+All other issues will be reviewed within 24 business hours.
 
 ### Standard Plan
 
 ### Plus Plan
+24x7 access to customer knowledgebase, documentation, whitepapers and support forums
+24x7 acces to dedicated Csutomer Success Manager via Marketplacer customer support centre, chat and phone
+
+All issues will be reviewed within 8 business hours
+Severity 1 (critical) tickets will be actioned within 4 hours
+Severity 2 (major) tickets will be actioned within 8 business hours
+Severity 3 (minor) tickets will be actioned within 7 business days
+Severity 4 (cosmetic) tickets will be actioned within 14 business days
+
