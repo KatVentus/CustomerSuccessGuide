@@ -51,7 +51,7 @@ Severity 3 (minor) tickets will be actioned within 7 business days
 
 Severity 4 (cosmetic) tickets will be actioned within 14 business days
 
-Business hours are generally defined as:
+#### Business hours are generally defined as:
 
 - 8:30am to 5:30pm AEST/AEDT for Australian Customers
 - 8:30am to 5:30pm PT/PDT for US Customers
