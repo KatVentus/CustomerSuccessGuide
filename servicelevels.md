@@ -39,6 +39,7 @@ All other issues will be reviewed within 12 business hours
 
 ### Plus Plan
 24x7 access to customer knowledgebase, documentation, whitepapers and support forums
+
 24x7 acces to dedicated Csutomer Success Manager via Marketplacer customer support centre, chat and phone
 
 All issues will be reviewed within 8 business hours
