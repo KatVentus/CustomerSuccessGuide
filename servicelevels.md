@@ -26,6 +26,15 @@ Severity 1 (critical) issues will be actioned within 12 business hours.
 All other issues will be reviewed within 24 business hours.
 
 ### Standard Plan
+24x7 access to customer knowledgebase, documentation, whitepapers and support forums
+
+24x7 access to Customer Success Team via Marketplacer customer support centre & chat
+
+
+Severity 1 (critical) issues will be actioned within 4 hours
+
+All other issues will be reviewed within 12 business hours
+
 
 ### Plus Plan
 24x7 access to customer knowledgebase, documentation, whitepapers and support forums
@@ -44,6 +53,8 @@ Severity 4 (cosmetic) tickets will be actioned within 14 business days
 *Business hours are generally defined as:
 
 *8:30am to 5:30pm AEST/AEDT for Australian Customers
+
 *8:30am to 5:30pm PT/PDT for US Customers
+
 *8:30am to 5:30pm CET/CEST for European Customers
 
