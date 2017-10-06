@@ -18,7 +18,7 @@ There is a partial, non-critical loss of use of the service with medium-to-low i
 Inquiry regarding a routine technical issue; information requested on application capabilities, navigation or configuration; bug affecting a small number of users. Acceptable workaround available.
 
 ## Service levels based on plan
-We currently have three plans available for SaaS.  Please note that reponse times depends on the plan and the severity of the issue.  
+We currently have three plans available for SaaS.  Please note that reponse time depends on the plan and the severity of the issue.  
 
 ### Basic Plan
 24x7 access to customer knowledgebase, documenatation, whitepapers and support forums.
